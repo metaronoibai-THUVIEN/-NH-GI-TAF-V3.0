@@ -1,0 +1,6 @@
+{
+  "name": "Assessment TAF",
+  "description": "Phần mềm tự động đánh giá chất lượng bản tin dự báo hàng không TAF theo tiêu chuẩn ICAO Annex 3",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
